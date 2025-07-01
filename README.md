@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @InfoSecByDiaz
-- 👀 I’m interested in Information Systems Security, Digital Forensics, Pen Testing activities
-- 🌱 I’m currently learning Intelligence Studies with a concentration in Collection Studies through a Masters program
+- 👋 Greetings Netizens, I'm Allan Diaz
+- 👀 I’m interested in Data Scientist, QA Engineer, SOC Analyst 
+- 🌱 I’m currently hold a collections of studies:
+- Graduate of Counterintelligence,
+- MA Intelligence Studies,
+- BSc Inforamation Systems Security (Digital Forensics)
+- Undergraduate of Terrorism Studies
 - 💞️ I’m looking to collaborate on Pen Testing and Bug Bounty assignments
-- 📫 How to reach me https://allandiaz.tech/contact-me
+- 📫 Reach me at: https://allandiaz.tech/contact
 
 <!---
 InfoSecByDiaz/InfoSecByDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
