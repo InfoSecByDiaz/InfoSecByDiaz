@@ -1,10 +1,10 @@
 - 👋 Greetings Netizens, I'm Allan Diaz
 - 👀 I’m interested in Data Scientist, QA Engineer, SOC Analyst 
-- 🌱 I’m currently hold a collections of studies:
-- Graduate of Counterintelligence,
-- MA Intelligence Studies (Collections),
-- BSc Inforamation Systems Security (Digital Forensics),
-- Undergraduate of Terrorism Studies, 
+- 🌱 I’m currently holding a collections of studies:
+- *Graduate of Counterintelligence,
+- *MA Intelligence Studies (Collections),
+- *BSc Inforamation Systems Security (Digital Forensics),
+- *Undergraduate of Terrorism Studies, 
 - 💞️ I’m looking to collaborate on Pen Testing and Bug Bounty assignments
 - 📫 Reach me at: https://allandiaz.tech/contact
 
