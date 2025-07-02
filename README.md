@@ -4,7 +4,9 @@
 - *Graduate of Counterintelligence,
 - *MA Intelligence Studies (Collections),
 - *BSc Inforamation Systems Security (Digital Forensics),
-- *Undergraduate of Terrorism Studies, 
+- *Undergraduate of Terrorism Studies,
+- *AS Graphic Design - Multi Media
+- *AA Business Administration
 - 💞️ I’m looking to collaborate on Pen Testing and Bug Bounty assignments
 - 📫 Reach me at: https://allandiaz.tech/contact
 
